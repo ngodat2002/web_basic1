@@ -1,0 +1,30 @@
+.header{
+    background-color: #1c2137;
+    color: aliceblue;
+    font-family: Verdana;
+}
+.header h3{
+    float: right;
+    margin-bottom: 100px;
+}
+.header_two{
+    background-color: #151829;
+    color: #68c6e3;
+}
+.featrue{
+    background-color: #151829;
+    color: aliceblue;
+}
+.container{
+    background-color: #151829;
+    width: 100%;
+}
+img{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.img_center{
+    text-align: center;
+}
